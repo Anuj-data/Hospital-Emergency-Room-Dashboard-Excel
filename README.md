@@ -66,7 +66,7 @@ IF([Patient Waittime]<30,"Within Time","Delay")
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Hospital emergency room dashboard.png)
+![image alt](https://github.com/Anuj-data/Hospital-Emergency-Room-Dashboard-Excel/blob/57b90072a2da12d4248c602099a553edc3aaaeab/Hospital%20emergency%20room%20dashboard.png)
 
 
 
